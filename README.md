@@ -12,7 +12,6 @@ To run the application locally, follow these steps:
 pip install -r requirements.txt
 ```
 
-```
 
 ## Usage
 Once the application is running, users can enter their medical questions into the provided text box and click the "Enter" button to receive a response. The app will use the GPT-4 Turbo model to generate answers based on information retrieved from PubMed.

@@ -1,0 +1,4 @@
+Bio==1.7.0
+biopython==1.83
+langchain==0.1.16
+langchain_openai==0.1.4
